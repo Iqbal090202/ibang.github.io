@@ -1,0 +1,14 @@
+html, body, .container {
+	height: 100%;
+  font-family: 'Kaushan Script','Sail', cursive;
+}
+
+.merrywrap{
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
+  top: 0px;
+  background-color: #d44;
+  transition: background-color .5s ease;
+}
